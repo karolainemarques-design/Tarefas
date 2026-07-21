@@ -1,0 +1,6 @@
+{
+  "name": "Tarefas Domésticas",
+  "description": "Aplicativo de tarefas domésticas diárias com sistema de pontuação e lembretes por horário.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
